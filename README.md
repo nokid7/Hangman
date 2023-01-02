@@ -1,2 +1,3 @@
 # Hangman
-npm run dev to run the game
+To run the game use 
+```npm run dev``` 
